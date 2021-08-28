@@ -1,2 +1,2 @@
 # setjmp
-A toy setjmp / longjmp implementation in C.
+A toy x86-64, Linux gcc setjmp / longjmp implementation in C.
